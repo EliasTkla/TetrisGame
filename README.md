@@ -13,8 +13,8 @@
     down - down arrow key or s
     rotate - up arrow key or w
 
-    pause/play = p key
-    mute sound = m key
+    pause/play - p key
+    mute sound - m key
 
     replay button - enter key or mouse click on button area
     
